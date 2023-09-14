@@ -1,0 +1,1 @@
+exec(open("src\control.py").read())

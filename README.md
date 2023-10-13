@@ -1,5 +1,5 @@
 # M_control
-#Due to github's upload size limitations, shape_predictor.dat file cant be uploaded.
+Due to github's upload size limitations, shape_predictor.dat file cant be uploaded.
 
 The file can be downloaded from : 
 
